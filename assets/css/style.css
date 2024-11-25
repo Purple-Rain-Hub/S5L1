@@ -266,7 +266,7 @@ footer a {
 
   iframe, section{
     width: 49%;
-    display: inline-block;
+    float: left;
     height: 250px;
     font-size: 70%;
     margin: 0%;
@@ -277,6 +277,7 @@ footer a {
   }
   section{
     border-radius: 5%;
+    font-size: large;
   }
   aside div{
     display: inline-block;
